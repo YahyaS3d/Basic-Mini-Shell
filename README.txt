@@ -23,12 +23,12 @@ RunCommand(): This function is responsible for executing a command if it exists 
 main(): execute the program and run it functionality
 
 ==Program Files==
-ex1.c - this file contains the main program with all functions 
+mini-shell.c - this file contains the main program with all functions 
 README.txt - description for the program 
 
 ==How to compile?==
-compile: gcc ex1.c -o ex1
-run: ./ex1
+compile: gcc mini-shell.c -o run
+run: ./run
 
 ==Input:==
 OS commands from the user, which supported in bash\shill 
